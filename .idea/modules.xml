@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" filepath="$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/stock_predection/.idea/stock_predection.iml" filepath="$USER_HOME$/DataspellProjects/stock_predection/.idea/stock_predection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>
